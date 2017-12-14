@@ -42,6 +42,7 @@ Version: 1.0
 =========================================================================*/
 
 @import url(https://fonts.googleapis.com/css?family=Oswald:300,400,700|Roboto:300,400,500,700);
+@import url('https://fonts.googleapis.com/css?family=Patrick+Hand');
 html,
 body {
   font-size: 16px;
@@ -59,7 +60,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: 'Oswald', sans-serif;
+  font-family: 'Patrick Hand', cursive;
   line-height: 1.5;
   font-weight: 600;
   margin: 0 0 20px 0;
