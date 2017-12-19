@@ -5544,7 +5544,7 @@ body.mean-container #wrapper {
   display: block;
   text-align: center;
   line-height: 40px;
-  background-color: rgba(81, 45, 168, 0.8);
+  background-color: #e91f62;
   -webkit-transition: all 0.3s ease-out;
   -moz-transition: all 0.3s ease-out;
   -ms-transition: all 0.3s ease-out;
