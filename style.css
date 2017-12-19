@@ -2252,7 +2252,7 @@ body.mean-container #wrapper {
   }
 }
 .about-event-content2 {
-  margin-top: 130px;
+  margin-top: 45px;
 }
 .about-event-content2 p {
   padding-right: 30px;
@@ -4478,7 +4478,7 @@ body.mean-container #wrapper {
 }
 .price-table-box1 .price-table-box-inner h2 {
   color: #ffffff;
-  font-size: 48px;
+  font-size: 26px;
 }
 @media (min-width: 321px) and (max-width: 479px) {
   .price-table-box1 .price-table-box-inner h2 {
@@ -4565,7 +4565,7 @@ body.mean-container #wrapper {
 }
 @media only screen and (max-width: 320px) {
   .price-table-box2 .price-table-box-inner h2 {
-    font-size: 42px;
+    font-size: 48px;
   }
 }
 .price-table-box2 .price-table-box-inner p {
