@@ -101,7 +101,7 @@ h1 {
   }
 }
 h2 {
-  font-size: 36px;
+  font-size: 30px;
 }
 h3 {
   font-size: 24px;
@@ -336,7 +336,7 @@ ul {
 .title-default {
   color: #222222;
   text-align: center;
-  margin-bottom: 15px;
+  margin-bottom: 50px;
 }
 @media (min-width: 768px) and (max-width: 991px) {
   .title-default {
@@ -2224,7 +2224,7 @@ body.mean-container #wrapper {
   color: #ffffff;
 }
 .about-event-area2 {
-  padding: 0 0 100px 0;
+  padding: 0 0 0px 0;
 }
 @media (min-width: 992px) and (max-width: 1199px) {
   .about-event-area2 {
@@ -4793,7 +4793,7 @@ body.mean-container #wrapper {
 =========================================================================*/
 
 .event-gallery-area1 {
-  padding: 118px 0 125px;
+  padding: 18px 0 50px;
 }
 @media (min-width: 992px) and (max-width: 1199px) {
   .event-gallery-area1 {
