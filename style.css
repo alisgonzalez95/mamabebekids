@@ -5538,9 +5538,9 @@ body.mean-container #wrapper {
   margin-right: 5px;
 }
 .footer-area-top .footer-social li a {
-  width: 40px;
-  height: 40px;
-  border: 1px solid #512da8;
+  width: 100px;
+  height: 45px;
+  border: 1px solid #e91f62;
   display: block;
   text-align: center;
   line-height: 40px;
@@ -5566,7 +5566,7 @@ body.mean-container #wrapper {
   }
 }
 .footer-area-top .footer-social li a i {
-  color: #b3b3b3;
+  color: #ffffff;
   -webkit-transition: all 0.3s ease-out;
   -moz-transition: all 0.3s ease-out;
   -ms-transition: all 0.3s ease-out;
